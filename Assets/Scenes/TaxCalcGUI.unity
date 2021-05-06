@@ -613,7 +613,7 @@ GameObject:
   - component: {fileID: 339061058}
   - component: {fileID: 339061057}
   m_Layer: 5
-  m_Name: Text
+  m_Name: net income
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -630,8 +630,13 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.48969907, y: 0.48969907, z: 0.48969907}
   m_Children: []
+<<<<<<< HEAD
   m_Father: {fileID: 1033575808}
   m_RootOrder: 9
+=======
+  m_Father: {fileID: 1151694041}
+  m_RootOrder: 1
+>>>>>>> 0f61fb90561f1946140b211502a210ecb888f595
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -693,7 +698,7 @@ GameObject:
   - component: {fileID: 349591519}
   - component: {fileID: 349591518}
   m_Layer: 5
-  m_Name: InputField
+  m_Name: salary
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -712,8 +717,13 @@ RectTransform:
   m_Children:
   - {fileID: 77559753}
   - {fileID: 1316069422}
+<<<<<<< HEAD
   m_Father: {fileID: 1033575808}
   m_RootOrder: 7
+=======
+  m_Father: {fileID: 1151694041}
+  m_RootOrder: 6
+>>>>>>> 0f61fb90561f1946140b211502a210ecb888f595
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2554,8 +2564,13 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.48969907, y: 0.48969907, z: 0.48969907}
   m_Children: []
+<<<<<<< HEAD
   m_Father: {fileID: 1033575808}
   m_RootOrder: 4
+=======
+  m_Father: {fileID: 1151694041}
+  m_RootOrder: 7
+>>>>>>> 0f61fb90561f1946140b211502a210ecb888f595
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2723,8 +2738,13 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.48969907, y: 0.48969907, z: 0.48969907}
   m_Children: []
+<<<<<<< HEAD
   m_Father: {fileID: 1033575808}
   m_RootOrder: 13
+=======
+  m_Father: {fileID: 1151694041}
+  m_RootOrder: 9
+>>>>>>> 0f61fb90561f1946140b211502a210ecb888f595
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2877,10 +2897,16 @@ RectTransform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+<<<<<<< HEAD
   m_Children:
   - {fileID: 694145258}
   m_Father: {fileID: 358994896}
   m_RootOrder: 1
+=======
+  m_Children: []
+  m_Father: {fileID: 1151694041}
+  m_RootOrder: 4
+>>>>>>> 0f61fb90561f1946140b211502a210ecb888f595
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -2985,7 +3011,11 @@ GameObject:
   - component: {fileID: 1678566439}
   - component: {fileID: 1678566438}
   m_Layer: 5
+<<<<<<< HEAD
   m_Name: Image (2)
+=======
+  m_Name: income tax
+>>>>>>> 0f61fb90561f1946140b211502a210ecb888f595
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2997,6 +3027,7 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1678566436}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -3009,6 +3040,20 @@ RectTransform:
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 383.63, y: 28.71}
   m_SizeDelta: {x: 181.06407, y: 298.76373}
+=======
+  m_GameObject: {fileID: 988757409}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1151694041}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 279.35, y: 570.51}
+  m_SizeDelta: {x: 490.8139, y: 60.56893}
+>>>>>>> 0f61fb90561f1946140b211502a210ecb888f595
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1678566438
 MonoBehaviour:
@@ -3056,11 +3101,21 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1704929556}
   - component: {fileID: 1704929558}
   - component: {fileID: 1704929557}
   m_Layer: 5
   m_Name: Item Checkmark
+=======
+  - component: {fileID: 1008254594}
+  - component: {fileID: 1008254597}
+  - component: {fileID: 1008254596}
+  - component: {fileID: 1008254595}
+  - component: {fileID: 1008254598}
+  m_Layer: 5
+  m_Name: convert
+>>>>>>> 0f61fb90561f1946140b211502a210ecb888f595
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3085,7 +3140,65 @@ RectTransform:
   m_AnchoredPosition: {x: 10, y: 0}
   m_SizeDelta: {x: 20, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
 --- !u!114 &1704929557
+=======
+--- !u!114 &1008254595
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1008254593}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 1008254596}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1151694037}
+        m_MethodName: Calculate
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &1008254596
+>>>>>>> 0f61fb90561f1946140b211502a210ecb888f595
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3123,7 +3236,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1704929555}
   m_CullTransparentMesh: 0
+<<<<<<< HEAD
 --- !u!1 &1755105057
+=======
+--- !u!114 &1008254598
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1008254593}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23fcf55b6bfc3d04fb56cc2f2fbd4517, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  salary: {fileID: 349591518}
+  payperiod: {fileID: 1731238783}
+  netincome: {fileID: 339061057}
+  incometax: {fileID: 988757411}
+  medicarelevy: {fileID: 1606435457}
+--- !u!1 &1151694036
+>>>>>>> 0f61fb90561f1946140b211502a210ecb888f595
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3148,6 +3282,7 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1755105057}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -3167,6 +3302,20 @@ RectTransform:
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &1755105059
+=======
+  m_GameObject: {fileID: 1151694036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23fcf55b6bfc3d04fb56cc2f2fbd4517, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  salary: {fileID: 0}
+  payperiod: {fileID: 0}
+  netincome: {fileID: 0}
+  incometax: {fileID: 0}
+  medicarelevy: {fileID: 0}
+--- !u!114 &1151694038
+>>>>>>> 0f61fb90561f1946140b211502a210ecb888f595
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3226,7 +3375,41 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+<<<<<<< HEAD
 --- !u!1 &1773655062
+=======
+--- !u!224 &1151694041
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1151694036}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_Children:
+  - {fileID: 988757410}
+  - {fileID: 339061056}
+  - {fileID: 1606435456}
+  - {fileID: 1522783232}
+  - {fileID: 924559080}
+  - {fileID: 1731238782}
+  - {fileID: 349591517}
+  - {fileID: 448642572}
+  - {fileID: 1773655063}
+  - {fileID: 907354370}
+  - {fileID: 1008254594}
+  m_Father: {fileID: 0}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
+--- !u!1 &1316069421
+>>>>>>> 0f61fb90561f1946140b211502a210ecb888f595
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3409,8 +3592,13 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
+<<<<<<< HEAD
   m_Father: {fileID: 1033575808}
   m_RootOrder: 0
+=======
+  m_Father: {fileID: 1151694041}
+  m_RootOrder: 3
+>>>>>>> 0f61fb90561f1946140b211502a210ecb888f595
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -3467,7 +3655,11 @@ GameObject:
   - component: {fileID: 1927587463}
   - component: {fileID: 1927587462}
   m_Layer: 5
+<<<<<<< HEAD
   m_Name: ATO TAX CAL
+=======
+  m_Name: medicare levy
+>>>>>>> 0f61fb90561f1946140b211502a210ecb888f595
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3479,11 +3671,16 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1927587460}
+=======
+  m_GameObject: {fileID: 1606435455}
+>>>>>>> 0f61fb90561f1946140b211502a210ecb888f595
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
+<<<<<<< HEAD
   m_Father: {fileID: 1033575808}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3491,6 +3688,15 @@ RectTransform:
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 158.6}
   m_SizeDelta: {x: 593.29987, y: 46.803894}
+=======
+  m_Father: {fileID: 1151694041}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 286.99, y: 379.71}
+  m_SizeDelta: {x: 490.8139, y: 72.05436}
+>>>>>>> 0f61fb90561f1946140b211502a210ecb888f595
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1927587462
 MonoBehaviour:
@@ -3546,7 +3752,11 @@ GameObject:
   - component: {fileID: 1970836247}
   - component: {fileID: 1970836246}
   m_Layer: 5
+<<<<<<< HEAD
   m_Name: Image
+=======
+  m_Name: pay period
+>>>>>>> 0f61fb90561f1946140b211502a210ecb888f595
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3562,9 +3772,17 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+<<<<<<< HEAD
   m_Children: []
   m_Father: {fileID: 1755105058}
   m_RootOrder: 1
+=======
+  m_Children:
+  - {fileID: 1755279841}
+  - {fileID: 912402310}
+  m_Father: {fileID: 1151694041}
+  m_RootOrder: 5
+>>>>>>> 0f61fb90561f1946140b211502a210ecb888f595
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -3713,12 +3931,18 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+<<<<<<< HEAD
   m_Children:
   - {fileID: 423169629}
   - {fileID: 1646086336}
   - {fileID: 358994896}
   m_Father: {fileID: 1755105058}
   m_RootOrder: 4
+=======
+  m_Children: []
+  m_Father: {fileID: 1151694041}
+  m_RootOrder: 8
+>>>>>>> 0f61fb90561f1946140b211502a210ecb888f595
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
